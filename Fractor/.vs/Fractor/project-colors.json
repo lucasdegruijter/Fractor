@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f26ab5fe-bb9e-4c62-814b-f03647548e9c": {
+      "ProjectGuid": "f26ab5fe-bb9e-4c62-814b-f03647548e9c",
+      "DisplayName": "Fractor.GUI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
